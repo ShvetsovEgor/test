@@ -1,0 +1,10 @@
+Используя функцию "Show Diff with working Tree" я установил, что версии различаются только README файлами.
+Содержимое ветки master:
+Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+You must receive some image as in demo branch
+
+Содежимое ветки origin\demo:
+Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+You must receive some image as in demo branch
