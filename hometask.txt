@@ -8,3 +8,22 @@ You must receive some image as in demo branch
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 
 You must receive some image as in demo branch
+
+
+11 коммитов:
+Commits on Jun 29, 2016
+init
+heat added
+boots
+README added
+fix readme
+Commits on Dec 28, 2021
+README added
+fix readme
+dots
+Commits on Jan 2, 2022
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/boots_buttons'
+Сетевой repo #2 в среде
+
+(ну, и , наверное, появится коммит этого файла)
